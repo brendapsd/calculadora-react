@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 .App {
   height: 100vh;
   padding-top: 10px;
@@ -5,7 +6,9 @@
   background-image: url('assets/fondo-calculadora.jpg');
   background-repeat : no-repeat;
   background-size : cover;
-  font-family: Lato, sans-serif;
+  background-position: center;
+  background-attachment: fixed;
+  font-family: 'Roboto', sans-serif;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
