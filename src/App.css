@@ -2,6 +2,9 @@
   height: 100vh;
   padding-top: 10px;
   background-color: #ea8467;
+  background-image: url('assets/fondo-calculadora.jpg');
+  background-repeat : no-repeat;
+  background-size : cover;
   font-family: Lato, sans-serif;
   display: flex;
   flex-wrap: wrap;
@@ -14,9 +17,6 @@
   padding: 15px;
   background-color: #ffffff;
   border-radius: 20px;
-  -webkit-box-shadow: 2px 2px 45px 15px rgba(0,0,0,0.1);
-  -moz-box-shadow: 2px 2px 45px 15px rgba(0,0,0,0.1);
-  box-shadow: 2px 2px 45px 15px rgba(0,0,0,0.1);
 }
 .fila{
   display: flex;
